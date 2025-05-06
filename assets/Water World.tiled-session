@@ -1,0 +1,56 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "FishingBack.json",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "": {
+            "scaleInDock": 1
+        },
+        "FishingBack.json": {
+            "scale": 1,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 517.5,
+                "y": 701.5
+            }
+        },
+        "FishingBack.json#fish-tiles": {
+            "scaleInDock": 1
+        },
+        "Water World.tmx": {
+            "scale": 0.27263020833333335,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1920.1833986054062,
+                "y": 1278.2882796828733
+            }
+        },
+        "Water World.tmx#fish-tiles": {
+            "scaleInDock": 1
+        }
+    },
+    "last.imagePath": "C:/Users/aazsp/Desktop/CMPM 120/FishSim/assets",
+    "map.fixedSize": true,
+    "map.height": 16,
+    "map.lastUsedFormat": "json",
+    "map.tileHeight": 64,
+    "map.tileWidth": 64,
+    "map.width": 16,
+    "openFiles": [
+        "FishingBack.json"
+    ],
+    "project": "Water World.tiled-project",
+    "recentFiles": [
+        "FishingBack.json",
+        "Water World.tmx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.tileSize": {
+        "height": 64,
+        "width": 64
+    }
+}
