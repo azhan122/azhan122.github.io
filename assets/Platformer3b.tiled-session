@@ -1,0 +1,86 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "platformer3b.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "platformer-level-1.tmj": {
+            "expandedObjectLayers": [
+                3
+            ],
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 441.99999999999994,
+                "y": 279.66666666666663
+            }
+        },
+        "platformer-level-1.tmj#kenny_tilemap_packed": {
+            "scaleInDock": 1
+        },
+        "platformer-level-1.tmx": {
+            "expandedObjectLayers": [
+                3
+            ],
+            "scale": 1,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 432,
+                "y": 224.5
+            }
+        },
+        "platformer-level-1.tmx#kenny_tilemap_packed": {
+            "scaleInDock": 1
+        },
+        "platformer3b.tmx": {
+            "expandedObjectLayers": [
+                8
+            ],
+            "scale": 4,
+            "selectedLayer": 7,
+            "viewCenter": {
+                "x": 782.5,
+                "y": 307.875
+            }
+        },
+        "platformer3b.tmx#tilemap-background": {
+            "scaleInDock": 1
+        },
+        "platformer3b.tmx#tilemap_packed": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.exportedFilePath": "C:/Users/aazsp/Desktop/CMPM 120/Platformer3b/assets",
+    "last.imagePath": "C:/Users/aazsp/Desktop/CMPM 120/Game3aTilemap",
+    "map.height": 16,
+    "map.lastUsedExportFilter": "JSON map files (*.tmj *.json)",
+    "map.lastUsedFormat": "json",
+    "map.tileHeight": 18,
+    "map.tileWidth": 18,
+    "map.width": 48,
+    "openFiles": [
+        "platformer3b.tmx"
+    ],
+    "project": "Platformer3b.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+        "platformer3b.tmx",
+        "platformer-level-1.tmx",
+        "platformer-level-1.tmj"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.tileSize": {
+        "height": 18,
+        "width": 18
+    }
+}
