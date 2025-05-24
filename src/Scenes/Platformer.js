@@ -77,8 +77,8 @@ class Platformer extends Phaser.Scene {
         let bubblefx = this.add.particles(0, 0, 'kenny-particles', {
             frame: 'muzzle_02.png',
             scale: { start: 0.07, end: 0 },
-            x: { min: 160, max: 200 },
-            y: { start: 425, end: 410},
+            x: { min: 180, max: 230 },
+            y: { start: 435, end: 410},
             alpha: {start: 0.1, end: 0.0}, 
             lifespan: 1000
         });
